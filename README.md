@@ -1,3 +1,5 @@
+Now part of [nodish](http://github.com/lipp/nodish) process submodule!
+
 lua-ev-nexttick
 ===============
 
